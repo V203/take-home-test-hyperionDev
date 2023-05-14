@@ -1,4 +1,4 @@
-### Section A Code Review
+# Section A Code Review
 -------
 Good job, Pete. You've obviously put a lot of work into honing your skills, as I can tell.
 
@@ -9,7 +9,7 @@ The function iterates over each character in the input string using a single loo
 The code you provided is generally well-organized, well-documented, effective, and adheres to a standard coding style. Continue your good work!
 
 
- ```
+ ~~~
 //TypeScript Type: Alphabet
 type Alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
@@ -63,5 +63,5 @@ const caesar_cipher<T> = (string: T, shift: string) => {
 print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 
 
- ```
+ ~~~
 
