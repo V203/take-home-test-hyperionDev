@@ -11,7 +11,7 @@ The code you provided is generally well-organized, well-documented, effective, a
 -------
 ## Option 4 
 
-### Typescript aesar Cipher function 
+### Typescript caesar Cipher function 
 
  ~~~typescript
 //TypeScript Type: Alphabet
