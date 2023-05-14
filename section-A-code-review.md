@@ -8,8 +8,12 @@ The function iterates over each character in the input string using a single loo
 
 The code you provided is generally well-organized, well-documented, effective, and adheres to a standard coding style. Continue your good work!
 
+-------
+## Option 4 
 
- ~~~javascript
+### Typescript aesar Cipher function 
+
+ ~~~typescript
 //TypeScript Type: Alphabet
 type Alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
